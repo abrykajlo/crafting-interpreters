@@ -1,5 +1,7 @@
-# crafting-interpreters
+# Crafting Interpreters
+
 working through crafting interpreters online book
  
- # Build
- > make build
+# Build
+
+> make build
